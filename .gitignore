@@ -130,3 +130,5 @@ dmypy.json
 .DS_Store
 datas/number_images/
 temp.py
+datas/*.mat
+.vscode/*
