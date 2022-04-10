@@ -5,10 +5,10 @@
 |패턴인식기|이미지데이터 분류||[ipynb](./02_패턴인식기_영상데이터.ipynb)|[zip](../../datas/digitimages_binary.zip)||
 |데이터 분포 분석|모수 추정법|[geogebra](https://www.geogebra.org/classic/xkmassdx)|[ipynb](./03_데이터_통계로분석_모수추정.ipynb)|||
 |데이터 분포 분석|비모수 추정법||[ipynb](./03_데이터_통계로분석_비모수추정.ipynb)|||
-|분류기|베이지안 분류|[geogebra](https://www.geogebra.org/classic/ut3gfbea)|[ipynb](./4강_베이지안_분류기(Bayes_Classifier).ipynb)|[zip](../../datas/dataCh4_7.zip)||
-|분류기|K_근접이웃분류기||[ipynb](./5강_K_근접이웃분류기(kNN).ipynb)|[zip](../../datas/dataCh4_7.zip)||
+|분류기|베이지안 분류|[geogebra](https://www.geogebra.org/classic/ut3gfbea)|[ipynb](./4강_베이지안_분류기(Bayes_Classifier).ipynb)|[zip](../../datas/dataCh4_7.zip)|[py](./4_bayes_classifier.py)|
+|분류기|K_근접이웃분류기||[ipynb](./5강_K_근접이웃분류기(kNN).ipynb)|[zip](../../datas/dataCh4_7.zip)|[py](./5_KNN_classifier.py)|
 |분류기|선형판별 최소제곱법|[geogebra](https://www.geogebra.org/classic/vvp5tpzc)|[ipynb](./6강_선형판별함수_최소제곱법.ipynb)|||
-|분류기|선형판별 퍼셉트론|[geogebra](https://www.geogebra.org/classic/vvp5tpzc)|[ipynb](./6강_선형판별함수_퍼셉트론.ipynb)|||
+|분류기|선형판별 퍼셉트론|[geogebra](https://www.geogebra.org/classic/vvp5tpzc)|[ipynb](./6강_선형판별함수_퍼셉트론.ipynb)||[py](./6_perceptron_classifier.py)|
 ### 기본 지식
 | 주제 | 주요 항목 | Concept | 작성 | dataset | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: |
