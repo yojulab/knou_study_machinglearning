@@ -9,6 +9,8 @@
 |분류기|K_근접이웃분류기||[ipynb](./5강_K_근접이웃분류기(kNN).ipynb)|[zip](../../datas/dataCh4_7.zip)|[py](./5_KNN_classifier.py)|
 |분류기|선형판별 최소제곱법|[geogebra](https://www.geogebra.org/classic/vvp5tpzc)|[ipynb](./6강_선형판별함수_최소제곱법.ipynb)|||
 |분류기|선형판별 퍼셉트론|[geogebra](https://www.geogebra.org/classic/vvp5tpzc)|[ipynb](./6강_선형판별함수_퍼셉트론.ipynb)||[py](./6_perceptron_classifier.py)|
+|clustering 분류기|k-mean||[ipynb](./7강_군집화_kmeans.ipynb)|||
+
 ### 기본 지식
 | 주제 | 주요 항목 | Concept | 작성 | dataset | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: |
