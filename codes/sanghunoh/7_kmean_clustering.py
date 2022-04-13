@@ -1,3 +1,4 @@
+from cProfile import label
 import matplotlib.pyplot as plt
 import numpy as np
 np.random.seed(50)
@@ -23,24 +24,30 @@ means = cluster_all[indices, :]
 
 # means
 row_all_count = cluster_all.shape[0]
-for iter in range(9):
-    cluster_kind_idx = list()
+cmode = ["green", "yellow", "blue"]
+from scipy.spatial import distance as dstn
+
+for iteration in range(10):
+    plt.figure(iteration+1)
+    cluster_label = np.zeros((row_all_count))
     for i in range(row_all_count):
         distance_measure = np.full((kernel), fill_value=0)
-        for j in range(kernel-1):
-            distance = np.power(cluster_all[i, :] - means[j, :], 2)
-            distance_measure[j] = np.linalg.norm(distance)
-        cluster_kind_idx.append(np.argmin(distance_measure))
+        for j in range(kernel):
+            distance = dstn.euclidean(cluster_all[i, :], means[j, :])
+            distance_measure[j] = distance
+        cluster_label[i] = np.argmin(distance_measure)
 
-    cluster_kind_idx_np = np.asarray(cluster_kind_idx)
-    # for j in range(kernel-1):
-    cluster_kind_mask = (cluster_kind_idx_np == 0)
-    plt.scatter(cluster_all[cluster_kind_mask, 0],
-                cluster_all[cluster_kind_mask, 1])
-    cluster_kind_mask = (cluster_kind_idx_np == 1)
-    plt.scatter(cluster_all[cluster_kind_mask, 0],
-                cluster_all[cluster_kind_mask, 1])
-    cluster_kind_mask = (cluster_kind_idx_np == 2)
-    plt.scatter(cluster_all[cluster_kind_mask, 0],
-                cluster_all[cluster_kind_mask, 1])
-    # plt.show()
+    past_means = means.copy()
+    for j in range(kernel):
+        cluster_label_mask = (cluster_label == j)
+        cluster_label_cnt = cluster_all[cluster_label_mask].shape[0]
+        plt.scatter(cluster_all[cluster_label_mask, 0],
+                    cluster_all[cluster_label_mask, 1], label='{}, {}'.format(j,cluster_label_cnt), color=cmode[j])
+        means[j,:] = np.mean(cluster_all[cluster_label_mask, :], axis=0)    # 새로운 벡터 계산
+    plt.scatter(past_means[:, 0], past_means[:, 1], marker='v', color='red', label='mean')
+    pass
+    plt.legend()
+    plt.show()
+
+    if (np.array_equal(means, past_means)):
+        break
