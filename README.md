@@ -7,6 +7,7 @@
 |패턴인식|군집화|[ipynb](./codes/yanginsuk/ch7_군집화.ipynb)|[07.-군집화실습](https://romg2.github.io/mlguide/01_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C-07.-%EA%B5%B0%EC%A7%91%ED%99%94-%EC%8B%A4%EC%8A%B5/)|
 | 선형판별함수 | 퍼셉트론분류 |[ipynb](./codes/youngjaelee/6_1_Perceptron_Classifier.ipynb) | n.a |
 
+## 논문 찾기
 |국내외| 명칭 | 사용료 | 설명 | URI |
 | :---:| :---: | :---: | --- | :---: |
 |국내|학술정보연구서비스 |일부 무료|주요 학위논문/국 ·내외 학술지/ 단행본/ 강의 /연구보고서등으로 구분하여 검색이 가능, 해외DB 무료이용권한은 RISS에서 지원하는 것들의 경우 24시간 무료 이용 가능 | [riss](http://www.riss.kr)|
