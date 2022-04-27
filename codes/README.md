@@ -7,3 +7,4 @@
 |국내|디비피아|유료|전자저널 논문, 전자책, 웹DB, 참고자료 · 사전, 동영상 강좌를 검색할 수있는 통합플랫폼 |[dbpia](https://www.dbpia.co.kr/)|
 |국내|국회도서관|무료|다양한 학술 정보기관들과 연계한 통합적인 자료 검색도 가능|[nanet](https://www.nanet.go.kr/)|
 |국내|국가과학기술정보센터|무료|국내 과학기술 정보관련 서비스,논문,특허,뉴스,보고서,동향 정보 검색과 원문 확인 가능|[kisti](https://scienceon.kisti.re.kr/)|
+|해외| Science Direct | 유료(연계 기관 이용 시 무료) | 유명 저널 알림 등록하면 정기 구독 가능| [Science Direct](https://www.sciencedirect.com) |
