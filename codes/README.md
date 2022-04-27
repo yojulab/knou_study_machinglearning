@@ -9,4 +9,4 @@
 |국내|국가과학기술정보센터|무료|국내 과학기술 정보관련 서비스,논문,특허,뉴스,보고서,동향 정보 검색과 원문 확인 가능|[kisti](https://scienceon.kisti.re.kr/)|
 |해외| Science Direct | 유료(연계 기관 이용 시 무료) | 유명 저널 알림 등록하면 정기 구독 가능| [Science Direct](https://www.sciencedirect.com) |
 |해외| arXiv | 무료 | 출판전 논문 아카이브 (출판물도 있음)| [arXiv](https://arxiv.org) |
-|해외| papers with code | 무료 | 논문 + 코드 | [arXiv](https://paperswithcode.com) |
+|해외| papers with code | 무료 | 논문 + 코드 | [paperswithcode](https://paperswithcode.com) |
