@@ -11,7 +11,7 @@
 |Perceptron|선형판별 퍼셉트론|[geogebra](https://www.geogebra.org/classic/vvp5tpzc)|[ipynb](./6강_선형판별함수_퍼셉트론.ipynb)||[py](./6_perceptron_classifier.py)|
 |Clustering|k-mean||[ipynb](./7강_군집화_kmeans.ipynb)|||
 |Clustering|Dendrogram||[ipynb](./7강_군집화_Dendrogram.ipynb)|||
-|Dimension Extraction| PCA, LDA | Concept |[PCA ipynb](./9%EA%B0%95_PCA.ipynb), [LDA ipynb](./9%EA%B0%95_LDA.ipynb) | random | [other ipynb](https://github.com/insightcampus/sesac-nlp/blob/main/ipynb/16%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20-%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A9.ipynb) |
+|Dimension Extraction| PCA, LDA | [PCA geogebra](https://www.geogebra.org/classic/pvsf8wpv), [LDA geogebra](https://www.geogebra.org/classic/mxmxaaac) |[PCA ipynb](./9%EA%B0%95_PCA.ipynb), [LDA ipynb](./9%EA%B0%95_LDA.ipynb) | random | [other ipynb](https://github.com/insightcampus/sesac-nlp/blob/main/ipynb/16%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20-%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A9.ipynb) |
 
 ### 기본 지식
 | 주제 | 주요 항목 | Concept | 작성 | dataset | 참조 |
