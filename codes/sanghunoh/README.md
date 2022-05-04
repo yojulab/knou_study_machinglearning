@@ -18,6 +18,6 @@
 | :---: | --- | :---: | :---: | :---: | :---: |
 |벡터|가우스 조던 행렬 소거법|[geogebra](https://www.geogebra.org/classic/nwppwpsx)|||[가우스 조던 행렬 소거법의 기하학적 의미](https://youtu.be/Ov7fetr-qg8)|
 |통계|중심극한정리|[link](https://onlinestatbook.com/stat_sim/sampling_dist/index.html)|||[link](https://youtu.be/lLvV4r7bSqQ)|
-|통계|?||||[공분산행렬과 주성분분석](https://youtu.be/YEdscCNsinUㄴ)|
+|통계|?||||[공분산행렬과 주성분분석](https://youtu.be/YEdscCNsinUㄴ), [PCA](https://bskyvision.com/347)|
 |Reduce Dimmesion|||[ipynb](./reduce_dimension.ipynb)|||
 |Dimension Extraction|SVD||||[image SVD ipynb](https://github.com/insightcampus/sesac-nlp/blob/main/ipynb/14%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20-%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%83%E1%85%A2%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.ipynb)|
