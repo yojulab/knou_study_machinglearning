@@ -7,3 +7,5 @@
 | 분류기 | iris 분포 KNN 분류 | [link](./과제_2_2_iris_KNN분류.ipynb) | [zip](../../../datas/iris.zip) |  |
 |  선형분류 | Perceptron | [link](./과제_3_1_선형판별함수_perceptron.ipynb) | [mat](../../../datas/HW3Data_1.mat) |  |
 | Clustering | K-means | [link](./과제_3_2_군집화_K_means.ipynb) | random |  |
+| 특징 추출 | PCA & LDA | [ipynb](./과제_4_1_특징추출.ipynb) | random |  |
+| 차원 축소 | LDA and Projection | [ipynb](./과제_4_2_차원축소.ipynb) | [mat](../../../datats/HW3Data_1.mat) |  |
