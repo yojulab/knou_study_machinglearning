@@ -130,7 +130,6 @@ dmypy.json
 .DS_Store
 datas/number_images/
 temp.py
-datas/*.mat
 .vscode/*
 datas/iris/*.mat
 !/datas/HW3Data_1.mat
