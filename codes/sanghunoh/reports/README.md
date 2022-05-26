@@ -9,7 +9,9 @@
 | Clustering | K-means | [link](./과제_3_2_군집화_K_means.ipynb) | random |  |
 | 특징 추출 | PCA & LDA | [ipynb](./과제_4_1_PCA_LDA.ipynb) | random |  |
 | 차원 축소 | COIL20_PCA_LDA| [ipynb](./과제_4_2_COIL20_PCA_LDA.ipynb) | [mat](../../../datats/HW4_COIL20.mat) |  |
-| Term2 | CNN(Face Detection)| [data ipynb](./Term_2_preprocess.ipynb), [ipynb](./Term_2_CNN_MPIE.ipynb) | [zip](../../../datats/mpie_30_shuffle.zip) |  |
+| 가우시안혼합 모델 |가우시안혼합 | [ipynb](./과제_5_1_1_가우시안혼합모델.ipynb) | [mat](../../../datats/HW5Data_1.mat) |  |
+| Term2 | dataset preprocess| [ipynb](./Term_2_preprocess.ipynb)| [zip](../../../datats/mpie_30_shuffle.zip) |  |
+| Term2 | CNN(Face Detection)| [ipynb](./Term_2_CNN_MPIE.ipynb), [ipynb](./Term_2_CNN_MPIE_results.ipynb) | [zip](../../../datats/mpie_30_shuffle.zip) |  |
 
 ## Term 1 Project refer
 |국내외|발행년도| 명칭 | 설명 | URI |
