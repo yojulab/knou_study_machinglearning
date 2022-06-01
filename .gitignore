@@ -133,6 +133,5 @@ temp.py
 .vscode/*
 datas/iris/*.mat
 !/datas/HW3Data_1.mat
-datas/results_*.pickle
+datas/reports/
 datas/mpie_30_shuffle/*
-datas/results_*_label_*.*
